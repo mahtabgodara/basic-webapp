@@ -1,4 +1,4 @@
-FROM python:slim
+FROM docker.io/python:slim
 
 WORKDIR /projects
 
